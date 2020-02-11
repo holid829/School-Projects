@@ -1,2 +1,2 @@
 # School-stuff
-Stuff I have made as a school project
+Stuff I have made for a school assignment
